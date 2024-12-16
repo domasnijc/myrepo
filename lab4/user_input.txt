@@ -1,0 +1,1 @@
+/usr/local/bin/python3 /Users/semenandreev/Desktop/Учеба/ввит/lab4/Main.py
